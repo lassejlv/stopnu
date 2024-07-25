@@ -1,0 +1,2 @@
+[deploy]
+cmd = "bunx vite build && netlify deploy --prod --dir=dist"
